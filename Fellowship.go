@@ -49,4 +49,4 @@ func final(last <-chan Token, num int){
 	}
 }
 
-https://play.golang.org/p/IXI5vWgXAa
+//https://play.golang.org/p/M0aPaqbtQp
